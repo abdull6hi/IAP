@@ -2,14 +2,14 @@
 // Site Information
 $conf['site_name'] = 'ICS C Community';
 $conf['site_url'] = 'http://localhost';
-$conf['admin_email'] = 'osman.abdullahi@strathmore.edu';
+$conf['admin_email'] = 'admin@icsccommunity.com';
 
 // Database Configuration
 $conf['db_type'] = 'pdo';
 $conf['db_host'] = 'localhost';
 $conf['db_user'] = 'root';
-$conf['db_pass'] = 'qwerty123';
-$conf['db_name'] = 'dbtest1';
+$conf['db_pass'] = '';
+$conf['db_name'] = 'nol';
 
 // Site Language
 $conf['site_lang'] = 'en';
